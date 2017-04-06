@@ -87,6 +87,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Wersje\Wersja0_8\Logika\IProwajderBazowy.cs" />
     <Compile Include="Wersje\Wersja0_8\Model\Dokumenty\Folder.cs" />
     <Compile Include="Wersje\Wersja0_8\Model\Dokumenty\Plik.cs" />
     <Compile Include="Wersje\Wersja0_8\Model\FluentModelMetadataSource.cs" />
